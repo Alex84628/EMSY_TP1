@@ -21,6 +21,6 @@
 //-- programme principale --// 
 int main(void)
 {
-
+		// commentaire 
   return(0);
 }
