@@ -21,6 +21,13 @@
 //-- programme principale --// 
 int main(void)
 {
-		// commentaire 
+	int largeur = 0;
+	int hauteur = 0;
+	int surfaceRectangle = 0;
+	int surfaceTriangle = 0;
+
+	surfaceRectangle = largeur * hauteur;
+	surfaceTriangle = (largeur * hauteur) / 2;
+
   return(0);
 }
